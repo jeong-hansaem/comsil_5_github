@@ -30,7 +30,7 @@ int main(){
 			
 			switch(selectNumber){ 
 				case 1:
-					cout<<"원하시는 값을 입력해주세요: ";
+					cout<<"원시는 값을 입력해주세요: ";
 					cin>>tmpItem;    p->Insert(tmpItem);
 					cout<<tmpItem<<"가 삽입되었습니다."<<endl;
 					break;
