@@ -11,7 +11,7 @@ int main(void)
 		a[i] = i+1;
 	for(i=0;i<b.length();i++)
 		b[i] = i*2;
-	cout<<"a(10) ";a.print();
+	cout<<"a(9) ";a.print();
 	cout<<"b(5) ";b.print();
 	cout<<"a[-1] ";a[-1] = 7;
 	x = a[0]; y = b[0];
