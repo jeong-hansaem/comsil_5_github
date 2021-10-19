@@ -3,7 +3,7 @@
 void Remove_Blanks_At_The_End( char *line ) {
 	int i, k, newline_flag = 0;
 
-	// 전체 문장에 대하여 line[k] 가 줄바꿈이면 flag를 1로 set, '\0'이면 ~~
+	// 전체 문장에 대하여 line[k] 가 줄바꿈이면 flag를 2로 set, '\0'이면 ~~
 	for ( k = 0; ; k++ ) {
 
 	}
